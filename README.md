@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://items.jellyneo.net/assets/imgs/items/5339.gif?530)
 
 <!--
