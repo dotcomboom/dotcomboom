@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on bread
+- 🌱 I’m currently learning bread
+- 👯 I’m looking to collaborate on bread
+- 🤔 I’m looking for help with bread
+- 💬 Ask me about bread
+- 📫 How to reach me: dotcomboom@somnolescent.net
+- ⚡ Fun fact: bread
+
 <!--
 **dotcomboom/dotcomboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
