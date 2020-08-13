@@ -4,17 +4,17 @@
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
-  - <a href="https://github.com/dotcomboom/AutoSite">AutoSite</a>, the desktop static site generator<br>
-  - <a href="https://github.com/dotcomboom/Pituophis">Pituophis</a>, Gopher client and server library for Python<br>
-  - <a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, saves Windows lock screen photos</li><br>
-  - <a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/AutoSite">AutoSite</a>, the desktop static site generator<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Pituophis">Pituophis</a>, Gopher client and server library for Python<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, saves Windows lock screen photos<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data
 </details>
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/chip_ramdrive-1.png"> Technologies</summary>
-  - .NET<br>
-  - Windows NT 5<br>
-  - XHTML 1.0 table layouts<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;.NET<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Windows NT 5<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;XHTML 1.0 table layouts<br>
 </details>
 
 <details>
