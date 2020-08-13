@@ -1,6 +1,6 @@
 # ![altadorian bread](https://items.jellyneo.net/assets/imgs/items/5339.gif?530) dcb
 
-[Web](https://dotcomboom.somnolescent.net) --- [Email](mailto:dotcomboom@somnolescent.net) --- [Gravatar](https://en.gravatar.com/dotcomboom) -- [w2krepo](https://w2krepo.somnolescent.net)
+[Web](https://dotcomboom.somnolescent.net) — [Email](mailto:dotcomboom@somnolescent.net) — [Gravatar](https://en.gravatar.com/dotcomboom) — [w2krepo](https://w2krepo.somnolescent.net)
 
 Major projects:
 - [AutoSite](https://github.com/dotcomboom/AutoSite), the desktop static site generator
@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=dotcomboom" alt="dcb's github stats"><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotcomboom" alt="Top Langs"></a>
+</details>
