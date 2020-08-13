@@ -28,4 +28,5 @@
       <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dotcomboom" alt="dcb's github stats"></a>
     </td>
   </tr>
+  </table>
 </details>
