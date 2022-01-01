@@ -8,14 +8,16 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Tomate">Tomate</a>, Pomodoro timer for .NET Compact Framework<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Pituophis">Pituophis</a>, Gopher client and server library for Python<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, saves Windows lock screen photos<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/mkwii-presence">mkwii-presence</a>, a Discord rich presence for playing Mario Kart Wii (standard Wiimmfi) online
 </details>
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/chip_ramdrive-1.png"> Technologies</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;.NET<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Windows NT 5<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;XHTML 1.0 table layouts<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;VB.NET<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Python<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Windows NT 5.x<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;FrontPagebr>
 </details>
 
 <details>
