@@ -17,7 +17,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;VB.NET<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Python<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Windows NT 5.x<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;FrontPagebr>
+  &nbsp;&nbsp;&nbsp;&nbsp;Winforms<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;FrontPage
 </details>
 
 <details>
