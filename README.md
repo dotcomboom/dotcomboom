@@ -1,6 +1,6 @@
 # ![](https://items.jellyneo.net/assets/imgs/items/5339.gif?530) dcb
 
-[Web](https://dotcomboom.somnolescent.net) — [Email](mailto:dotcomboom@somnolescent.net) — [Gravatar](https://en.gravatar.com/dotcomboom) — [w2krepo](https://w2krepo.somnolescent.net)
+[Web](https://dotcomboom.somnolescent.net) — [Email](mailto:dotcomboom@somnolescent.net) — [w2krepo](https://w2krepo.somnolescent.net)
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
