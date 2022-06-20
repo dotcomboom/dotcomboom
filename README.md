@@ -1,4 +1,4 @@
-# ![](https://items.jellyneo.net/assets/imgs/items/5339.gif?530) dcb
+# dcb
 
 [Web](http://dotcomboom.somnolescent.net) — [Email](mailto:dotcomboom@somnolescent.net) — [w2krepo](http://w2krepo.somnolescent.net)
 
