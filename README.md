@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Pituophis">Pituophis</a>, Gopher client and server library for Python<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, saves Windows lock screen photos<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/mkwii-presence">mkwii-presence</a>, a Discord rich presence for Wiimmfi WFC
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/mkwii-rpredux">MKWii-RPRedux</a>, a Discord rich presence for Wiimmfi WFC
 </details>
 
 <details open>
