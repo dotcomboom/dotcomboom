@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/mkwii-rpredux">MKWii-RPRedux</a>, a Discord rich presence for Wiimmfi WFC
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://w2krepo.somnolescent.net">w2krepo</a>, a software archive primarily targeting PCs running 2000 and XP
+  &nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://w2krepo.somnolescent.net">w2krepo</a></b>, a software archive primarily targeting PCs running 2000 and XP
 </details>
 
 <details open>
