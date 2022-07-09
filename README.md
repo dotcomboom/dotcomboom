@@ -1,6 +1,6 @@
 # dcb
 
-[Web](http://dotcomboom.somnolescent.net) — [Email](mailto:dotcomboom@somnolescent.net) — [w2krepo](http://w2krepo.somnolescent.net)
+[Web](http://dotcomboom.somnolescent.net) — [Email](mailto:dotcomboom@somnolescent.net)
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
@@ -10,6 +10,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, saves Windows lock screen photos<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/mkwii-rpredux">MKWii-RPRedux</a>, a Discord rich presence for Wiimmfi WFC
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://w2krepo.somnolescent.net">w2krepo</a>, a software archive primarily targeting PCs running 2000 and XP
 </details>
 
 <details open>
