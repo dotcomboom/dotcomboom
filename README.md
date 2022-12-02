@@ -17,10 +17,9 @@
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/chip_ramdrive-1.png"> Technologies</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;Visual Basic .NET<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Windows Forms<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Visual Basic .NET and Windows Forms<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Python 3<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Java (studying)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Java [studying]<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Gopher<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Microsoft Windows (past, present, future)
 </details>
