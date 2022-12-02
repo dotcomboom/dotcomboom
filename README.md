@@ -6,8 +6,8 @@
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/AutoSite">AutoSite</a>, the desktop static site generator<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Pituophis">Pituophis</a>, Internet Gopher client and server module for Python<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Tomate">Tomate</a>, Pomodoro timer for legacy Windows PCs and mobiles (.NET Compact Framework)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Pituophis">Pituophis</a>, Gopher client and server module for Python<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, saves Windows lock screen photos<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, views clipboard data<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dotcomboom/mkwii-rpredux">MKWii-RPRedux</a>, a Discord rich presence for Wiimmfi online play
@@ -20,6 +20,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Visual Basic .NET<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Windows Forms<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Python 3<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Java (studying)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Gopher<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Microsoft Windows (past, present, future)
 </details>
