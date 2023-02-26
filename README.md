@@ -19,11 +19,20 @@
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/chip_ramdrive-1.png"> Technologies</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;Visual Basic .NET, Windows Forms<br>
+  <b>proficient</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;VB.NET, Windows Forms<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Python 3<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Java (studying)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Internet Gopher and related simple TCP workflows<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Windows systems of past, present, future
+  <b>familiar</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Java<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Visual Basic 6<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;PHP<br>
+  <b>presently studying</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;C, x86 asm [2021 below]<br>
+  <b>particular interests</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Automating time-consuming processes<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Desktop app user experience and RAD<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Internet Gopher and historical net applications<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Legacy systems support and maintenance<br>
 </details>
 
 <details open>
@@ -31,6 +40,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;<code>AP</code> Computer Science A (2021)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<code>AP</code> Computer Science Principles (2022)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<code>CSCI 1913</code> - Intro to Algorithms and Data Structures (Fall 2022)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<code>CSCI 2011</code> - Discrete Structures (Spring 2023; ongoing)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<code>CSCI 2021</code> - Machine Architecture and Organization (Spring 2023; ongoing)<br>
 </details>
   
 
