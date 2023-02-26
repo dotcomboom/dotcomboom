@@ -24,7 +24,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Python 3<br>
   <b>familiar</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;Java<br>
-  <b>presently studying</b><br>
+  <b>learning</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;C, x86 asm [2021 below]<br>
   <b>particular interests</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;Automating time-consuming processes<br>
