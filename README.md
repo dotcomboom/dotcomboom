@@ -24,8 +24,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Python 3<br>
   <b>familiar</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;Java<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Visual Basic 6<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;PHP<br>
   <b>presently studying</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;C, x86 asm [2021 below]<br>
   <b>particular interests</b><br>
