@@ -25,12 +25,7 @@
   <b>familiar</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;Java<br>
   <b>learning</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;C, x86-64 asm [2021 below]<br>
-  <b>particular interests</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Automating time-consuming processes<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Desktop app user experience and RAD<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Internet Gopher and historical net applications<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Legacy systems support and maintenance<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;C, x86-64 asm [2021 below]<br
 </details>
 
 <details open>
