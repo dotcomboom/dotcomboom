@@ -25,7 +25,7 @@
   <b>familiar</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;Java<br>
   <b>learning</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;C, x86-64 asm [2021 below]<br
+  &nbsp;&nbsp;&nbsp;&nbsp;C, x86-64 asm [2021 below]<br>
 </details>
 
 <details open>
