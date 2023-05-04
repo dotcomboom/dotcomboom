@@ -7,7 +7,7 @@
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/dotcomboom/AutoSite/blob/master/AutoSite/Resources/autosite_mixer.png?raw=true" height="16"> <a href="https://github.com/dotcomboom/AutoSite">AutoSite</a>, the desktop static site generator<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/image_old_jpeg-1.png"> <a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, grabs photos out of the Windows Spotlight lockscreen cache<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/image_old_jpeg-1.png"> <a href="https://github.com/dotcomboom/Windows-Spotlight-Extractor">Spotlight Extractor</a>, copies photos from the Windows Spotlight lockscreen cache<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/briefcase-1.png"> <a href="https://github.com/dotcomboom/Clipboard-Viewer">Clipboard Viewer</a>, grabs Windows clipboard text or image<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/gps-0.png"> <a href="https://github.com/dotcomboom/mkwii-rpredux">MKWii-RPRedux</a>, shares Wiimmfi Mario Kart Wii lobby info to Discord
   <br>
