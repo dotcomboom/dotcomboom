@@ -2,7 +2,7 @@
 
 <img src="https://win98icons.alexmeub.com/icons/png/html-4.png"> [Visit website](http://dotcomboom.somnolescent.net)<br>
 <img src="https://win98icons.alexmeub.com/icons/png/envelope_open_sheet-1.png"> [Compose email](mailto:dotcomboom@somnolescent.net)<br>
-<img src="https://win98icons.alexmeub.com/icons/png/document-1.png"> <a href="https://gists.github.com/dotcomboom">View my Gists</a>
+<img src="https://win98icons.alexmeub.com/icons/png/document-1.png"> <a href="https://gists.github.com/dotcomboom">Check my Gists for more scripts</a>
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
