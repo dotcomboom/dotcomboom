@@ -4,7 +4,7 @@
 <img src="https://win98icons.alexmeub.com/icons/png/envelope_open_sheet-1.png"> [Email me](mailto:dotcomboom@somnolescent.net)<br>
 <img src="https://win98icons.alexmeub.com/icons/png/document-1.png"> <a href="https://gists.github.com/dotcomboom">See my Gists</a>
 
-Hi! I'm Eric, and I wrangle with old operating systems and write software for fun.
+Hi! I'm Eric, and I write software and wrangle with old operating systems for fun.
 
 <details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/calendar-5.png" height="16"> Projects</summary>
