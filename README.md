@@ -45,7 +45,7 @@ Hi! I'm Eric, and I write software and wrangle with old operating systems for fu
   <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotcomboom" alt="Top Langs"></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotcomboom&exclude_repo=mgb" alt="Top Langs"></a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dotcomboom" alt="dcb's github stats"></a>
