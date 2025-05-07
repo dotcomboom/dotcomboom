@@ -40,7 +40,7 @@ Hi! I'm Eric, and I write software and wrangle with old operating systems for fu
 </details>
   -->
 
-<details>
+<details open>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/chart1-2.png"> Statistics</summary>
   <table>
   <tr>
